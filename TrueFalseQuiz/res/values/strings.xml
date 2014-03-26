@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+	<string name="true_button">True</string>
+	<string name="false_button">False</string>
+	<string name="correct_toast">Correct!</string>
+	<string name="incorrect_toast">Incorrect!</string>
+	<string name="next_button">Next -></string>
+	<string name="question_dogs">Shih-Tzus are the best breed of dog.</string>
+	<string name="question_mother">Your mother finds me attractive.</string>
+	<string name="question_joel">Joel is a badass motherfucker.</string>
+	<string name="question_you">You are a badass motherfucker.</string>
+	<string name="question_bears">Bears always attack from behind.</string>
+</resources>
